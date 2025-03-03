@@ -1,6 +1,6 @@
 {
-  "name": "Rabid Touch",
-  "short_name": "Rabid Touch",
+  "name": "arkanoid",
+  "short_name": "arkanoid",
   "id": "com.example.gamename",
   "description": "",
   "orientation": "portrait",
